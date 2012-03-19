@@ -10,6 +10,7 @@ edit_url: /edit/master/members.md
 # Current Members
 
 * [Erich Blume](mailto:blume.erich@gmail.com) ([github account](https://github.com/eblume))
+* [Kelsey Higham](mailto:kelseyhigham+telephone@gmail.com?subject=Ring%20ring) ([videogames](http://sjsugamedev.com/user/22))
 
 # Alumni
 
