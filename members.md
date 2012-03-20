@@ -13,6 +13,7 @@ edit_url: /edit/master/members.md
 * [Kelsey Higham](mailto:kelseyhigham+telephone@gmail.com?subject=Ring%20ring) ([videogames](http://sjsugamedev.com/user/22))
 * [Tim Stullich](mailto:timstullich@yahoo.com) ([github account](https://github.com/tstullich))
 * [Justin Walker](mailto:justin.kingdust@gmail.com) ([github account](https://github.com/ankme))
+* [Colin Blower](mailto:webby@1101b.com) ([github account](https://github.com/Lanzaa))
 
 # Alumni
 
