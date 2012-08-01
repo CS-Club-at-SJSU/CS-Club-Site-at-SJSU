@@ -22,6 +22,8 @@ Then point your browser at [http://localhost:4000](http://localhost:4000). It sh
 
 To contribute a change, please fork the [project](https://github.com/CS-Club-at-SJSU/CS-Club-Site-at-SJSU) and hack way! When you've finished comitting your changes, send a 'Pull Request' through github, and the webmaster will review and merge your changes.
 
+Then issue a pull request.
+
 ### Adding a new page
 
 In short, to add a new page, you can either just add a file (like 'about.md'),
