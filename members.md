@@ -19,7 +19,7 @@ edit_url: /edit/gh-pages/members.md
 
 # Alumni
 
-None listed yet - add yourself!
+* [Andrew Manoske] (http://about.me/andymanoske) ([blog](http://syntacticsugar.me))
 
 # How to add yourself to this list
 
