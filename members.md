@@ -20,6 +20,7 @@ edit_url: /edit/gh-pages/members.md
 # Alumni
 
 * [Andrew Manoske] (http://about.me/andymanoske) ([blog](http://syntacticsugar.me))
+* [Parris Khachi] (http://twitter.com/parrissays) ([blog](http://www.parrisstudios.com))
 
 # How to add yourself to this list
 
