@@ -14,10 +14,34 @@ If you cannot attend our meetings and are still interested, please fill out the 
 ## Informational Meeting
 Our first meeting will be Friday September 28, 2012. We will have free pizza and will give attendants more information. If you have any interest, please join us in MacQuarrie Hall 227 (CS Club room).
 
+## Problems Set 
+If you have any questions or would like to discuss the problem sets. Feel free to contact in the contacts list(Below).
+
+
+## Easy - Medium
+* [3n + 1 problem] (http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)
+* [Ecological parking] (http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=38)
+* [Easier Said than Done?] ( http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=63)
+* [Filling out the team] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=198&page=show_problem&problem=1109)
+* [Tangled in circles] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=198&page=show_problem&problem=1114)
+
+
+## Medium - Hard
+* [Line Of Sight] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=198&page=show_problem&problem=1113)
+* [Dungeon Master] (http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=473)
+* [Colorville] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=64)
+* [Gold Coins] (http://poj.org/problem?id=2000)
+
+## Currently Unsolved
+* [Cow Exhibition](http://poj.org/problem?id=2184)
+
+
+
+
 
 ## Contact:
 * Colin B. ([icpc@1101b.com](mailto:icpc@1101b.com))
-* Sai Datta
+* Sai Datta ([sai.icpc@gmail.com](sai.icpc@gmail.com))
 * David
 
 ## Links:
