@@ -19,6 +19,12 @@ If you have any questions or would like to discuss the problem sets. Feel free t
 
 
 ## Easy - Medium
+* [a+b problem] (http://poj.org/problem?id=1000)
+* [Exponentiation] (http://poj.org/problem?id=1001)
+* [487-3279] (http://poj.org/problem?id=1002)
+* [Financial Management] (http://poj.org/problem?id=1004)
+* [Optimal Parking] (http://poj.org/problem?id=3632)
+* [Intersecting Lines] (http://poj.org/problem?id=1269)
 * [3n + 1 problem] (http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)
 * [Ecological parking] (http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=38)
 * [Easier Said than Done?] ( http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=63)
@@ -27,6 +33,7 @@ If you have any questions or would like to discuss the problem sets. Feel free t
 
 
 ## Medium - Hard
+* [Hangover] (http://poj.org/problem?id=1003)
 * [Line Of Sight] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=198&page=show_problem&problem=1113)
 * [Dungeon Master] (http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=473)
 * [Colorville] (http://livearchive.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=64)
@@ -34,7 +41,8 @@ If you have any questions or would like to discuss the problem sets. Feel free t
 
 ## Currently Unsolved
 * [Cow Exhibition](http://poj.org/problem?id=2184)
-
+* [Crashing Balloon] (http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1003)
+* [Power Strings] (http://acm.tju.edu.cn/toj/showp1394.html)
 
 
 
