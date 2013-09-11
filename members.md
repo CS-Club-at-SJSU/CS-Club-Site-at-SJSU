@@ -14,6 +14,7 @@ edit_url: /edit/gh-pages/members.md
 * [Justin Walker](mailto:justin.kingdust@gmail.com) ([github account](https://github.com/ankme))
 * [Venkata Munnangi](mailto:saidatta24@gmail.com) ([github account](https://github.com/saidatta))
 * [Jose Padilla](mailto:jose.padilla.88@gmail.com) ([github account](https://github.com/jpadv))
+* [Karine Worley](mailto:iwamura_karine@yahoo.co.jp) ([github account](https://github.com/karine-sjsu))
 
 
 # Alumni
