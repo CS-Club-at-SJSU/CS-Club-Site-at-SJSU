@@ -12,7 +12,6 @@ edit_url: /edit/gh-pages/members.md
 * [Kelsey Higham](mailto:kelseyhigham+telephone@gmail.com?subject=Ring%20ring) ([videogames](http://sjsugamedev.com/user/22))
 * [Tim Stullich](mailto:timstullich@gmail.com) ([github account](https://github.com/tstullich))
 * [Justin Walker](mailto:justin.kingdust@gmail.com) ([github account](https://github.com/ankme))
-* [Venkata Munnangi](mailto:saidatta24@gmail.com) ([github account](https://github.com/saidatta))
 * [Jose Padilla](mailto:jose.padilla.88@gmail.com) ([github account](https://github.com/jpadv))
 * [Karine Worley](mailto:iwamura_karine@yahoo.co.jp) ([github account](https://github.com/karine-sjsu))
 * [Tran Lam](mailto:tblam@gmail.com) ([github account](https://github.com/tblam))
@@ -22,6 +21,7 @@ edit_url: /edit/gh-pages/members.md
 * [Andrew Manoske] (http://about.me/andymanoske) ([blog](http://syntacticsugar.me))
 * [Parris Khachi] (http://twitter.com/parrissays) ([blog](http://www.parrisstudios.com))
 * [Colin Blower](mailto:webby@1101b.com) ([github account](https://github.com/Lanzaa))
+* [Venkata Munnangi](mailto:saidatta24@gmail.com) ([github account](https://github.com/saidatta))
 
 # How to add yourself to this list
 
