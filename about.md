@@ -1,10 +1,9 @@
-——-
+---
 layout: page
 title: About
 group: navigation
-edit_url: /edit/gh-pages/about.md
+edit_url: /edit/gh-pages/members.md
 ---
-
 {% include JB/setup %}
 
 The Computer Science Club at SJSU strives to gather and motivate computer
