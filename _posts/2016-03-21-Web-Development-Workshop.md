@@ -1,6 +1,6 @@
 ---
 layout: post
-$title:  "Cyber Security Presentation!”
+$title:  "Web Development Workshop!”
 author: Samira C. Oliva
 ---
 {% include JB/setup %}
